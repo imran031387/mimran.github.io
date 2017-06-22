@@ -1,9 +1,9 @@
 ---
 layout: article
-title: "About"
+title: "About Me"
 date: 
 modified: 
-excerpt: "This is the Skinny Bones about page."
+excerpt:
 image:
   feature:
   teaser:
@@ -12,6 +12,9 @@ share: false
 ads: false
 ---
 
-This is a work in progress.
-
-Just a little something I'm using to jump start a site refresh. I like to think of it as a starter for building your own Jekyll site. I purposely keep the styling minimal and bare to make it easier to add your own flare and markup.
+My goal is to endeavor at my best, to be productive and to perform for the betterment of the 
+employed organization while developing my professional career giving the leadership whenever 
+necessary and a good capacity with achieving dynamic technologies and anticipate any hindrance 
+with a proactive knowledge further more hold positive attitudes and a commitment with a good 
+understanding on software development methodologies and also i’m an energetic and enthusiastic 
+worker with good communication skills and interpersonal relationships.
