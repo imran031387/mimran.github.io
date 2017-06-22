@@ -18,3 +18,8 @@ necessary and a good capacity with achieving dynamic technologies and anticipate
 with a proactive knowledge further more hold positive attitudes and a commitment with a good 
 understanding on software development methodologies and also i’m an energetic and enthusiastic 
 worker with good communication skills and interpersonal relationships.
+
+## Contact Information
+Email : mimran@d6studio@gmail.com
+
+Mobil : +94757565658
