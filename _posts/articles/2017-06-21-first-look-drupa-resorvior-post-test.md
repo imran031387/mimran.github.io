@@ -12,7 +12,7 @@ image:
   teaser: reservoir-logo.png
 ---
 
-Reservoir is a drupal 8 powered back end for your front end and also a content repository also this supports JSON API and OAuth2 
+Reservoir is a drupal 8 powered back end for your front end and also a content repository which supports JSON API and OAuth2 
 out of the box so It's dead simple to use.  
 
 ### How to install Reservoir
