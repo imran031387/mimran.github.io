@@ -1,11 +1,11 @@
 # Site wide configuration
 
-title: "Skinny Bones"
-description: "A lightweight site starter for Jekyll"
+title: "Blog"
+description: "Technical Blog"
 logo: 120x120.gif
 teaser: 400x250.gif
 locale: en_US
-url: "https://mmistakes.github.io/skinny-bones-jekyll"
+url: "http://blog.imranmohamed.com"
 feed:
   path: atom.xml
 
@@ -26,13 +26,13 @@ gems:
 
 # Site owner
 owner:
-  name: "Michael Rose"
-  web: "https://mademistakes.com"
-  twitter: "mmistakes"
+  name: "Mohamed Imran"
+  web: "http://www.imranmohamed.com"
+  twitter: "mimran"
   bio: "Just another boring, tattooed, time traveling designer."
   avatar: "bio-photo.jpg" # 160x160 px image for author byline
   google:
-    plus: "+MichaelRoseDesign"
+    plus: "mimran"
     ad-client: "ca-pub-7328585512091257"
     ad-slot: 3049671934
   disqus-shortname:
