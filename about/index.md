@@ -20,6 +20,6 @@ understanding on software development methodologies and also i’m an energetic 
 worker with good communication skills and interpersonal relationships.
 
 ## Contact Information
-Email : mimran@d6studio@gmail.com
+Email  : mimran@d6studio@gmail.com
 
-Mobil : +94757565658
+Mobile : +94757565658
