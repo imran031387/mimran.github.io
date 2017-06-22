@@ -32,6 +32,10 @@
 	@include font-size(20,no);
 	line-height: .5 * $masthead-height; // half the height to center vertically
 	text-transform: uppercase;
+
+	img{
+		width: 50px;
+	}
 }
 
 
@@ -341,6 +345,7 @@
 	font-family: $alt-font;
   /* Copyright text */
 	.copyright {
+		float: right;
 		@include font-size(12);
 		color: lighten($black,60);
 		a {
