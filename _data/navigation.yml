@@ -1,5 +1,10 @@
 # Site navigation links
 
+- title: Web
+  url: http://www.imranmohamed.com
+  excerpt: "Main website!"
+  image: 400x250.gif
+
 - title: Articles
   url: /articles/
   excerpt: "All the articles can be found here!"
