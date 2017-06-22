@@ -24,7 +24,8 @@ The preferred way to install Reservoir is using our Composer-based project templ
 3. In your webhost configuration, point `my-project.com` to `[MY_PROJECT]/docroot`   
 4. Install Reservoir by going to `http://my-project.com`
 
-Once you done with the installation you are all see to use your backend below video will show how it's look like when you first login
+Once you done with the installation you are all set to use your backend, below video will show how it's look like when you first login
  to the system.
  
 <iframe width="560" height="315" src="//www.youtube.com/embed/p_AmlPvejmQ" frameborder="0"> </iframe>
+
