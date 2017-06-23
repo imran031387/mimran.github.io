@@ -11,10 +11,8 @@ image:
   feature: 
   teaser: 2017-06-24/0.png
 ---  
-
-One of major functionalities of Drupal 7 is  database abstraction layer this letting us to create complex 
-static and dynamic queries easy and  more readable manner by using query builders but unfortunately there 
-are some significant performance differences among the query builders.
+As continious serious of blog posts today i'm gonna write about how to setup drupal 8  development environment for 
+Themeing 
 
 #### Enable TWIG Debug mode and disable Drupal cache.
 
@@ -45,7 +43,6 @@ Clear the cache for take effect and inspect the web page and see for theme sugge
 <figure class="half">
 	<a href="#"><img src="{{ site.url }}/images/2017-06-24/1.png"></a>
 	<a href="#"><img src="{{ site.url }}/images/2017-06-24/2.png"></a>
-	<figcaption>Figure 1,2</figcaption>
 </figure>
 
 #### Enable SAAS minify & uglify and watch and live reaload.
@@ -141,7 +138,9 @@ gulp.task('watch', function(){
 Install the live reload chrome plugin to see the changes realtime in the browser
 
 and then type
+
 `npm install`
+
 `gulp watch`
 
 
