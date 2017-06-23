@@ -47,7 +47,9 @@ Clear the cache for take effect and inspect the web page and see for theme sugge
 
 #### Enable SAAS minify & uglify and watch and live reaload.
 
-Create a package.json file to install npm dependencies
+Create a package.json file to install npm dependencies or as to get a kick start clone my repo from the 
+below link
+`https://github.com/imran031387/Drupal-8-Theme-Starter`
 
 ```ruby
 {  
@@ -135,7 +137,7 @@ gulp.task('watch', function(){
 });
 ```
 
-Install the live reload chrome plugin to see the changes realtime in the browser
+Install the live reload chrome plugin to see the changes real time in the browser
 
 and then type
 
