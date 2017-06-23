@@ -146,7 +146,7 @@ and then type
 
 `gulp watch`
 
-and that's it you have setup your drupal 8 themeing envirment will talk next about "twig"
+and that's it you have setup your drupal 8 themeing environment will talk next about "twig"
 templating engine...;)
 
 
