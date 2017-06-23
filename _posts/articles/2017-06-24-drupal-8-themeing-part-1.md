@@ -49,6 +49,7 @@ Clear the cache for take effect and inspect the web page and see for theme sugge
 
 Create a package.json file to install npm dependencies or as to get a kick start clone my repo from the 
 below link
+
 `https://github.com/imran031387/Drupal-8-Theme-Starter`
 
 ```ruby
@@ -144,6 +145,9 @@ and then type
 `npm install`
 
 `gulp watch`
+
+and that's it you have setup your drupal 8 themeing envirment will talk next about "twig"
+templating engine...;)
 
 
 
