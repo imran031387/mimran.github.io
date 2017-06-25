@@ -87,11 +87,6 @@ for this we need to follow following steps
 	<figcaption></figcaption>
 </figure>
 
-<figure>
-	<a href="#"><img src="{{ site.url }}/images/2017-06-27/9.png"></a>
-	<figcaption></figcaption>
-</figure>
-
 Once you created the XML input it'll appear as following and you can drag and drop 
 that to the `JOB WORKPLACE` and create tFileInputXML component as below.
 
