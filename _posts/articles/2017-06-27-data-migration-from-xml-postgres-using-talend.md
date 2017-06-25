@@ -68,6 +68,11 @@ for this we need to follow following steps
 </figure>
 
 <figure>
+	<a href="#"><img src="{{ site.url }}/images/2017-06-27/5_1.png"></a>
+	<figcaption></figcaption>
+</figure>
+
+<figure>
 	<a href="#"><img src="{{ site.url }}/images/2017-06-27/6.png"></a>
 	<figcaption></figcaption>
 </figure>
