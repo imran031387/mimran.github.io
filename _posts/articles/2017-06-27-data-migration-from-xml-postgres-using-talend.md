@@ -1,6 +1,6 @@
 ---
 layout: article
-title: "Data Migration From XML to Postgres Database Using Talend"
+title: "Data Migration From XML File to Postgres Database Using Talend"
 date: 2017-06-27
 modified:
 categories: articles
@@ -9,8 +9,9 @@ tags: [xml,postgres,migration,talend]
 ads: true
 image:
   feature: 
-  teaser: 2017-06-24/0.png
----  
+  teaser: 2017-06-27/0.gif
+--- 
+
 In this blog post, I’m going to discuss how to migrate data which reside within an XML file to Postgres 
 database using TALEND before that I'll give a brief introduction about what is TALEND.
 
