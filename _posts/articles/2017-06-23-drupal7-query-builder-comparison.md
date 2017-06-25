@@ -1,7 +1,7 @@
 ---
 layout: article
 title: "Comparison between Query builders(EntityFieldQuery, db_select, db_query) in Drupal 7"
-date: 2017-06-23
+date: 2017-06-22
 modified:
 categories: articles
 excerpt:

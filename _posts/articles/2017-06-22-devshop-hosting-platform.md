@@ -1,7 +1,7 @@
 ---
 layout: article
 title: "Devshop As a Cloud Hosting Platform"
-date: 2017-06-22
+date: 2017-06-23
 modified:
 categories: articles
 excerpt:
