@@ -1,6 +1,6 @@
 ---
 layout: article
-title: "Drupal 8 Theming Part 1"
+title: "Drupal 7 Testing With Behat"
 date: 2015-08-08
 modified:
 categories: articles
