@@ -12,8 +12,6 @@ image:
   teaser: 2015-08-08/0.png
 ---  
 
-#### Introduction
-
 Behat is a tool that makes behavior driven development (BDD) possible. With BDD, we can write human-readable 
 stories that describe the behavior of your application. These stories can then be auto-tested against our 
 applications
