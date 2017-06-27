@@ -173,6 +173,8 @@ we can see the follow output.
 	<figcaption></figcaption>
 </figure>
 
+and on the postgres database you can see the data is imported as per the XML doccument.
+
 <figure>
 	<a href="#"><img src="{{ site.url }}/images/2017-06-27/22.png"></a>
 	<figcaption></figcaption>
@@ -183,7 +185,7 @@ we can see the follow output.
 	<figcaption></figcaption>
 </figure>
 
-and that's it like this you can migrate data from xml to postgres following video is showing a demo
+and that's it like this you can migrate data from xml to postgres, following video is showing a demo
 for migrating a complex xml which are having nested data to postgres database.
 
 
