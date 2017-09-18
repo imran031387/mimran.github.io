@@ -1,7 +1,7 @@
 ---
 layout: article
 title: "Install and configure Apache HIVE with vanilla Hadoop"
-date: 2017-09-12
+date: 2017-09-18
 modified:
 categories: articles
 excerpt:
