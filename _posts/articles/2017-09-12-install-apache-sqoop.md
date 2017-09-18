@@ -34,7 +34,7 @@ structured datastores such as relational databases.
 **STEP 02:** Extract the Sqoop tar File.
 
 ```ruby
-    Add the Sqoop paths in the bash_profile file (.bash_profile) as shown below.
+    tar -xvf sqoop-1.4.6.bin__hadoop-2.0.4-alpha.tar.gz
 ```
 
 **STEP 03:** Add the Hadoop and Java paths in the bash_profile file (.bash_profile) as shown below.
